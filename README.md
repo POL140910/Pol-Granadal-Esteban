@@ -58,11 +58,11 @@ També vull continuar aprenent sobre disseny 3D, videojocs, tecnologia i desenvo
 
 ## Contacte
 
-Correu electrònic: polgranadalesteban@gmail.com
+- Correu electrònic: polgranadalesteban@gmail.com
 
-Telèfon: 689 712 222
+- Telèfon: 689 712 222
 
- Gràcies per visitar el meu repositori!
+ - Gràcies per visitar el meu repositori!
 
 Pol Granadal Esteban
 
