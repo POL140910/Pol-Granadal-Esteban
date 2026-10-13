@@ -1,7 +1,7 @@
  Presentació personal
 Pol Granadal Esteban
 ![alt text](cx-picture-100608993-primary-idge_.jpg)
-Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
+## Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
 Benvingut/da al meu repositori! Aquí explico una mica qui sóc, què estic estudiant, els projectes que faig i quins són els meus objectius de futur.
 
